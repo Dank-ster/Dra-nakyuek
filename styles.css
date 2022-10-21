@@ -1,0 +1,84 @@
+.theShitBox{
+    display: flex;
+    flex-direction: column;
+    height:fit-content;
+    background-color: brown;
+    padding-bottom: 1%;
+}
+.funnyHaha{
+    display:flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: fit-content;
+    font-size: 2.3rem;
+    background-color: aquamarine;
+}
+.god{
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    font-size: 1.8rem;
+    background-color: rgb(239, 255, 147);
+}
+.containerOfGod{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5%;
+    height: 65vw;
+    width: 45vw;
+    background-color: aliceblue;
+}
+.pictureOfGod{
+    height: 100%;
+    width: 100%;
+}
+.descriptionOfGod{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.5%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5rem;
+    background-color: aliceblue;
+}
+.arrows{
+    display: flex;
+    margin-top: 1.5%;
+    height: 20vh;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.swipeRight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    height: 90%;
+    border-radius: 18px;
+    background-color: white;
+}
+.swipeLeft{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    border-radius: 18px;
+    background-color: white;
+}
+.rightArrow{
+    height: 90%;
+    width: 90%;
+}
+.leftArrow{
+    height: 90%;
+    width: 90%;
+}

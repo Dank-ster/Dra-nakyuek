@@ -35,6 +35,10 @@
     height: 65vw;
     width: 45vw;
     background-color: aliceblue;
+    transition: all .3s ease-in-out;
+}
+.containerOfGod:hover{
+    transform: scale(139%)
 }
 .pictureOfGod{
     height: 100%;
